@@ -1,19 +1,18 @@
 # android-stopwatch-app
 
-This is a simple Android Stopwatch application built using Java and Android SDK. It includes basic functionalities such as starting, stopping, and resetting the stopwatch using a `Chronometer`.
+Basit bir Android Kronometre uygulamasıdır. Kronometreyi bir `Kronometre` kullanarak başlatma, durdurma ve sıfırlama gibi temel işlevleri içerir.
 
-## Features
+## Özellikler
 
-- **Start**: Start the stopwatch from zero or continue from where it was paused.
-- **Stop**: Pause the stopwatch at the current time.
-- **Reset**: Reset the stopwatch to zero and restart the timer.
+- **Başlat**: Kronometreyi sıfırdan başlatır veya duraklatıldığı yerden devam ettirir.
+- **Durdur**: Kronometreyi geçerli saatte duraklatır.
+- **Sıfırla**: Kronometreyi sıfırlar ve zamanlayıcıyı yeniden başlatır.
 
+### Önkoşullar
 
-### Prerequisites
-
-To run the project, you will need:
+Projeyi çalıştırmak için şunlara ihtiyacınız olacak:
 
 - Android Studio
-- Java Development Kit (JDK)
+- Java Geliştirme Kiti (JDK)
 
 [android-stopwatch.webm](https://github.com/user-attachments/assets/26421a00-e2e3-4ef4-a8ab-ec4091d02bc4)
